@@ -1,5 +1,3 @@
-Criptografia Java - Checkpoint 1
-
 Integrantes
 Enricco Rossi de Souza Carvalho Miranda - rm551717
 Gabriel Marquez Trevisan - rm99227
